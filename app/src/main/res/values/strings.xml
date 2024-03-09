@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">animacion</string>
+    <string name="calculadora">Calculadora</string>
+    <string name="introduce_el_largo_del_rect_ngulo">Introduce el largo del rectángulo</string>
+    <string name="introduce_el_ancho_del_rect_ngulo">Introduce el ancho del rectángulo</string>
+    <string name="introduce_el_ngulo_en_grados">Introduce el ángulo en grados</string>
+    <string name="calcular">Calcular</string>
+</resources>
